@@ -334,7 +334,7 @@ Respuesta:
 
 El devanado secundario puede que esté en cortocircuito. Es probable que exista una corriente excesiva debido a la baja resistencia reflejada provocada por el corto.
 ### 4. VIDEO
-
+https://youtu.be/aqGmvBgqJfc
 ### 5. CONCLUSIONES
 Mediante el estudio del inductor se conoce que básicamente una bobina de alambre se basa en el principio de inducción electromagnética, lo cual ya se había estudiado una parte de este tema. Se denota que la inductancia es la propiedad de una bobina de alambre que se opone a un cambio de corriente. La base de la inductancia es el campo electromagnético que rodea cualquier conductor cuando fluye corriente a través de él.
 
