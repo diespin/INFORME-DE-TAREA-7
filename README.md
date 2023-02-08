@@ -25,6 +25,33 @@ Conocer y estudiar los conceptos de inductores y transformadores en circuitos el
 [![3.png](https://i.postimg.cc/4dLYrDBZ/3.png)](https://postimg.cc/KkTcTs6s)
 ### UNIDAD 13
 #### AUTOEVALUACION
+##### 2. Una inductancia de 0.33 mH es más pequeña que
+##### (d) 0.0005 H
+##### 4. Cuando la corriente que circula a través de un inductor se duplica, la energía guardada
+##### (b) se cuadruplica 
+##### 6. La inductancia de una bobina de núcleo de hierro se incrementa si
+##### (a) aumenta la cantidad de vueltas 
+##### 8. Tres inductores de 1 mH, 3.3 mH y 0.1 mH, respectivamente, se conectan en paralelo. La inductancia total es
+##### (c) menor que 0.1 mH
+##### 10. Se aplica un voltaje sinusoidal entre las terminales de un inductor. Cuando la frecuencia del voltaje se incrementa, la corriente
+##### (a) disminuye 
+##### 12. Se conecta un ohmmetro entre las terminales de un inductor y la aguja indica un valor infinito. El inductor
+##### (b) está abierto 
+#### EXAMEN RAPIDO DE DINAMICA DE CIRCUITOS
+##### Consulte la figura 13-45.
+##### 2. Si el interruptor se mueve de la posición 3 a la posición 4, la inductancia entre A y B
+##### (b) disminuye 
+##### Consulte la figura 13-48.
+##### 4. Si L disminuye de 10 mH a 1 mH y el interruptor se cierra, la constante de tiempo
+##### (b) disminuye 
+##### Consulte la figura 13-51.
+##### 6. Si la frecuencia de la fuente de voltaje se incrementa, la corriente total
+##### (b) disminuye 
+##### 8. Si la frecuencia de la fuente de voltaje disminuye, la razón de los valores de las corrientes a través de L2 y L3
+##### (c) no cambia
+##### Consulte la figura 13-52.
+##### 10. Si L3 se abre, el voltaje a través de L2
+##### (a) aumenta 
 #### SECCION 13-1 El inductor básico
 2. Convierta los siguientes valores en microhenries:
 
@@ -154,9 +181,39 @@ Para el circuito del literal c
 
 
 ### UNIDAD 14
-#### AUTOEVALUACION
 
-#### SECCIÓN 14–1 Inductancia mutua
+#### AUTOEVALUACION
+##### 2. ¿Cuál de los siguientes voltajes se ve afectado por la relación de vueltas de un transformador?
+##### (c) voltaje secundario 
+##### 4. Cuando la relación de vueltas de un transformador es de 10 y el voltaje de ca primario es de 6 V, el voltaje secundario es de
+##### (a) 60 V
+##### 6. Cierto transformador tiene 500 vueltas en el devanado primario y 2500 en el secundario. La relación de vueltas es de
+##### (c) 5 
+##### 8. En cierto transformador cargado, el voltaje secundario es un tercio del voltaje primario. La corriente secundaria es
+##### (b) tres veces la corriente primaria
+##### 10. En la pregunta 9, si la relación de vueltas es de 0.5, la fuente “ve” una carga reflejada de
+##### (c) 4kohms
+##### 12. Se transfiere potencia máxima de una fuente a una carga en un circuito acoplado por transformador cuando
+##### (c)(1/n)^2Rl=Rent
+##### 14. Cierto transformador tiene relación de vueltas de 1 y coeficiente de acoplamiento de 0.95. Cuando se aplica un 1 V de ca al primario, el voltaje secundario es de
+##### (c) 0.95 V
+#### EXAMEN RAPIDO DE DINAMICA DE CIRCUITOS
+##### Consulte la figura 14-43(c).
+##### 2. Si la fuente de cd se pone en cortocircuito, el voltaje a través de RL
+##### (c) no cambia
+##### Consulte la figura 14-45.
+##### 4. Si el fusible se abre, el voltaje a través de RL
+##### (b) disminuye 
+##### 6. Si la frecuencia del voltaje de fuente se incrementa, el voltaje a través de RL
+##### (c) no cambia
+##### Consulte la figura 14-49.
+##### 8. Si la relación de vueltas se incrementa, el volumen del sonido que sale del altavoz
+##### (a) aumenta 
+##### Consulte la figura 14-50.
+##### 10. De nuevo, se aplican 10 V rms a través del primario. Con ambos interruptores en la posición 1 como se muestra y si R1 se abre, el voltaje a través de R1
+##### (c) no cambia
+#### SECCIÓN 14–1
+Inductancia mutua
 
 2. Determine el coeficiente de acoplamiento cuando LM= 1 mH, L1= 8 mH, y L2= 2 mH.
 
